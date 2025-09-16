@@ -12,7 +12,7 @@ This project visualizes call center KPIs such as total calls, revenue, duration,
 -	Which reps are most efficient in terms of revenue per call?
 -	Which reps as most happy callers?
 
--Dashboard Interaction <a href="https://github.com/Abishek1699/data_analysis_Dashboard/blob/main/call_report_screenshot.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Abishek1699/data_analysis_Dashboard/blob/main/call_report_screenshot.png">View Dashboard</a>
 
 ## Process 
 Data Collection – Gather call center data including calls, duration, revenue, customer details, and ratings.
